@@ -1,0 +1,24 @@
+div {
+    //scroll de la barra
+    overflow-x: scroll;
+    overflow-x:hidden;
+}
+
+ul {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 15px;
+    list-style: none;
+    width: 100%;
+    scroll-snap-type: x proximity;
+
+    li {
+        border-radius: 5px;
+        scroll-snap-align: start;
+        /* Agrega esta línea para controlar la alineación de los elementos en la lista */
+    }
+
+    img {
+        width: 250px;
+    }
+}

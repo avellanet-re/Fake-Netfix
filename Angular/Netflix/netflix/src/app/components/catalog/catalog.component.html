@@ -1,0 +1,8 @@
+<!-- Evento del mouse -->
+<div class="container" (mousemove)="onMouseMove($event)">
+    <h3>{{films.section}}</h3>
+    <ul #list class="catalog-list">
+        <li *ngFor="let film of films.films"><img src="{{film.src}}"></li>
+    </ul>
+
+</div>

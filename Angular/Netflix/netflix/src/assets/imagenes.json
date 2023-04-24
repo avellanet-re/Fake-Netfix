@@ -1,0 +1,314 @@
+[
+  {
+    "title": "ejercitomuertos.jpg",
+    "src": "images/Accion/ejercitomuertos.jpg"
+  },
+  {
+    "title": "elprotector.webp",
+    "src": "images/Accion/elprotector.webp"
+  },
+  {
+    "title": "equalizer2.webp",
+    "src": "images/Accion/equalizer2.webp"
+  },
+  {
+    "title": "heat.webp",
+    "src": "images/Accion/heat.webp"
+  },
+  {
+    "title": "jackreacher.webp",
+    "src": "images/Accion/jackreacher.webp"
+  },
+  {
+    "title": "johnwick2.webp",
+    "src": "images/Accion/johnwick2.webp"
+  },
+  {
+    "title": "killbill2.webp",
+    "src": "images/Accion/killbill2.webp"
+  },
+  {
+    "title": "misionimposiblenacion.webp",
+    "src": "images/Accion/misionimposiblenacion.webp"
+  },
+  {
+    "title": "renacido.webp",
+    "src": "images/Accion/renacido.webp"
+  },
+  {
+    "title": "terminator2.webp",
+    "src": "images/Accion/terminator2.webp"
+  },
+  {
+    "title": "worldwarz.webp",
+    "src": "images/Accion/worldwarz.webp"
+  },
+  {
+    "title": "ajin.jpg",
+    "src": "images/Anime/ajin.jpg"
+  },
+  {
+    "title": "castilloambulante.webp",
+    "src": "images/Anime/castilloambulante.webp"
+  },
+  {
+    "title": "chihiro.webp",
+    "src": "images/Anime/chihiro.webp"
+  },
+  {
+    "title": "evangelion.webp",
+    "src": "images/Anime/evangelion.webp"
+  },
+  {
+    "title": "gitsarise.webp",
+    "src": "images/Anime/gitsarise.webp"
+  },
+  {
+    "title": "gundam.webp",
+    "src": "images/Anime/gundam.webp"
+  },
+  {
+    "title": "laputa.webp",
+    "src": "images/Anime/laputa.webp"
+  },
+  {
+    "title": "mononoke.webp",
+    "src": "images/Anime/mononoke.webp"
+  },
+  {
+    "title": "ninokuni.jpg",
+    "src": "images/Anime/ninokuni.jpg"
+  },
+  {
+    "title": "perfectblue.webp",
+    "src": "images/Anime/perfectblue.webp"
+  },
+  {
+    "title": "porcorosso.webp",
+    "src": "images/Anime/porcorosso.webp"
+  },
+  {
+    "title": "casi300.webp",
+    "src": "images/Comedia/casi300.webp"
+  },
+  {
+    "title": "cazafantasmas.webp",
+    "src": "images/Comedia/cazafantasmas.webp"
+  },
+  {
+    "title": "dictador.webp",
+    "src": "images/Comedia/dictador.webp"
+  },
+  {
+    "title": "erasehollywood.webp",
+    "src": "images/Comedia/erasehollywood.webp"
+  },
+  {
+    "title": "family guy.webp",
+    "src": "images/Comedia/family guy.webp"
+  },
+  {
+    "title": "juerga.webp",
+    "src": "images/Comedia/juerga.webp"
+  },
+  {
+    "title": "laterminal.webp",
+    "src": "images/Comedia/laterminal.webp"
+  },
+  {
+    "title": "padresella.webp",
+    "src": "images/Comedia/padresella.webp"
+  },
+  {
+    "title": "regresofuturo.webp",
+    "src": "images/Comedia/regresofuturo.webp"
+  },
+  {
+    "title": "rickandmorty.webp",
+    "src": "images/Comedia/rickandmorty.webp"
+  },
+  {
+    "title": "scarymovie3.webp",
+    "src": "images/Comedia/scarymovie3.webp"
+  },
+  {
+    "title": "ted2.webp",
+    "src": "images/Comedia/ted2.webp"
+  },
+  {
+    "title": "1917.webp",
+    "src": "images/Drama/1917.webp"
+  },
+  {
+    "title": "arrival.webp",
+    "src": "images/Drama/arrival.webp"
+  },
+  {
+    "title": "clublucha.webp",
+    "src": "images/Drama/clublucha.webp"
+  },
+  {
+    "title": "corazones.webp",
+    "src": "images/Drama/corazones.webp"
+  },
+  {
+    "title": "culpable.jpg",
+    "src": "images/Drama/culpable.jpg"
+  },
+  {
+    "title": "millaverde.webp",
+    "src": "images/Drama/millaverde.webp"
+  },
+  {
+    "title": "naufrago.webp",
+    "src": "images/Drama/naufrago.webp"
+  },
+  {
+    "title": "noespais.webp",
+    "src": "images/Drama/noespais.webp"
+  },
+  {
+    "title": "salvaralsoldado.webp",
+    "src": "images/Drama/salvaralsoldado.webp"
+  },
+  {
+    "title": "scarface.webp",
+    "src": "images/Drama/scarface.webp"
+  },
+  {
+    "title": "schindler.webp",
+    "src": "images/Drama/schindler.webp"
+  },
+  {
+    "title": "sombradiablo.webp",
+    "src": "images/Drama/sombradiablo.webp"
+  },
+  {
+    "title": "unicosuperviviente.webp",
+    "src": "images/Drama/unicosuperviviente.webp"
+  },
+  {
+    "title": "12monos.webp",
+    "src": "images/Sci-fi/12monos.webp"
+  },
+  {
+    "title": "6dia.webp",
+    "src": "images/Sci-fi/6dia.webp"
+  },
+  {
+    "title": "afterearth.webp",
+    "src": "images/Sci-fi/afterearth.webp"
+  },
+  {
+    "title": "colverparadox.jpg",
+    "src": "images/Sci-fi/colverparadox.jpg"
+  },
+  {
+    "title": "core.webp",
+    "src": "images/Sci-fi/core.webp"
+  },
+  {
+    "title": "deepimpact.webp",
+    "src": "images/Sci-fi/deepimpact.webp"
+  },
+  {
+    "title": "doom.webp",
+    "src": "images/Sci-fi/doom.webp"
+  },
+  {
+    "title": "gits.webp",
+    "src": "images/Sci-fi/gits.webp"
+  },
+  {
+    "title": "jumper.webp",
+    "src": "images/Sci-fi/jumper.webp"
+  },
+  {
+    "title": "passengers.webp",
+    "src": "images/Sci-fi/passengers.webp"
+  },
+  {
+    "title": "startrek.webp",
+    "src": "images/Sci-fi/startrek.webp"
+  },
+  {
+    "title": "transformers.webp",
+    "src": "images/Sci-fi/transformers.webp"
+  },
+  {
+    "title": "watchmen.webp",
+    "src": "images/Sci-fi/watchmen.webp"
+  },
+  {
+    "title": "apostol.jpg",
+    "src": "images/Terror/apostol.jpg"
+  },
+  {
+    "title": "calleterror.jpg",
+    "src": "images/Terror/calleterror.jpg"
+  },
+  {
+    "title": "infiernoagua.webp",
+    "src": "images/Terror/infiernoagua.webp"
+  },
+  {
+    "title": "insidious2.webp",
+    "src": "images/Terror/insidious2.webp"
+  },
+  {
+    "title": "life.webp",
+    "src": "images/Terror/life.webp"
+  },
+  {
+    "title": "malasana.webp",
+    "src": "images/Terror/malasana.webp"
+  },
+  {
+    "title": "multiple.webp",
+    "src": "images/Terror/multiple.webp"
+  },
+  {
+    "title": "reflejos.webp",
+    "src": "images/Terror/reflejos.webp"
+  },
+  {
+    "title": "1-papel.webp",
+    "src": "images/Top10/1-papel.webp"
+  },
+  {
+    "title": "10-gooddoctor.webp",
+    "src": "images/Top10/10-gooddoctor.webp"
+  },
+  {
+    "title": "2-reina.webp",
+    "src": "images/Top10/2-reina.webp"
+  },
+  {
+    "title": "3-titanes.webp",
+    "src": "images/Top10/3-titanes.webp"
+  },
+  {
+    "title": "4-lostinspace.webp",
+    "src": "images/Top10/4-lostinspace.webp"
+  },
+  {
+    "title": "5-dondecaben.webp",
+    "src": "images/Top10/5-dondecaben.webp"
+  },
+  {
+    "title": "6-aquinohay.webp",
+    "src": "images/Top10/6-aquinohay.webp"
+  },
+  {
+    "title": "7-blacklist.webp",
+    "src": "images/Top10/7-blacklist.webp"
+  },
+  {
+    "title": "8-ricos.webp",
+    "src": "images/Top10/8-ricos.webp"
+  },
+  {
+    "title": "9-poder.webp",
+    "src": "images/Top10/9-poder.webp"
+  }
+]
